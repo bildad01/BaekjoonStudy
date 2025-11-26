@@ -33,6 +33,7 @@ public class BOJ_2566 {
         }
         System.out.println(maxVal);
         System.out.println((maxRow+1) + " " + (maxCol + 1));
+        sc.close();
     }
     
 }
