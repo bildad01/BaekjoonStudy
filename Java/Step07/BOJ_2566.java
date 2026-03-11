@@ -1,4 +1,3 @@
-package Java.Step07;
 
 import java.util.Scanner;
 

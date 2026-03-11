@@ -1,5 +1,3 @@
-
-package Java.Step07;
 import java.util.Scanner;
 
 public class BOJ_2738_1 {
